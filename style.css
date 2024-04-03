@@ -1,0 +1,15 @@
+h1 {
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Courier New', monospace;
+    color: #4c00ff;
+}
+
+p {
+    font-size: 30px;
+    text-align: center;
+}
+
+body {
+    background-image: url("Bladee.jpg");
+}
